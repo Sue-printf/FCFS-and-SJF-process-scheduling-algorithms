@@ -3,19 +3,19 @@ Guidelines on running the Java program
 
 * Go to the command prompt, and use the command cd to take you to where the java file is. For example, if it is in the Downloads folder, you should use the following command: cd Downloads
 
-* Compile your Java file by using the following command prompt: Javac KennethRichards.java
+* Compile your Java file by using the following command prompt: Javac SchedulingAlgorithms.java
 
-* This will generate a file named KennethRichards.class in the same directory. 
+* This will generate a file named SchedulingAlgorithms.class in the same directory. 
 
 * After compiling, you can run your program with the correct arguments. You need to specify the filename and the scheduling algorithm ("FCFS" or "SJF").
 
 * Your process details file is named processes.txt.
 
-* To use the FCFS algorithm, you will run: java KennethRichards processes.txt FCFS
+* To use the FCFS algorithm, you will run: java SchedulingAlgorithms processes.txt FCFS
 
 * Or, for SJF:
 
-java KennethRichards processes.txt SJF
+java SchedulingAlgorithms processes.txt SJF
 
 
 
